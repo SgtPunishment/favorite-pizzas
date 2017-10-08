@@ -7,5 +7,5 @@ You cannot make a new file with the same type of pizza as someone else. If you d
 ## Structure
 Name: [topping]
 Contents: 
-    If unique, empty
+    If unique, list why
     If exists, add 1 on a new line.
